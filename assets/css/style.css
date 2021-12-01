@@ -125,18 +125,8 @@ section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.footer {
+/* Footer css start */
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -144,6 +134,7 @@ section h2 {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
+/* Footer css ends */

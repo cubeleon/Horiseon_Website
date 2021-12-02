@@ -26,6 +26,6 @@ HTML & CSS
 
 #Screenshot
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/Screenshot/01-html-css-git-homework-demo.png?raw=true "Horiseon Website Screenshot")
+![The Horiseon with navigation on top, main image, bottom cards and side naviation at right](./assets/images/Screenshot/01-html-css-git-homework-demo.png?raw=true "Horiseon Website Screenshot")
 
 © [Cubelen](https://github.com/cubeleon)
